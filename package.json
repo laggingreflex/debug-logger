@@ -1,29 +1,9 @@
 {
-  "name": "debug-logger",
-  "version": "0.4.1",
-  "description": "A wrapper for visionmedia/debug logger, adding levels and colored output",
+  "name": "@my/debug-logger",
+  "version": "0.0.1",
+  "description": "My personalized wrapper for appscot/debug-logger",
   "main": "debug-logger.js",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:appscot/debug-logger.git"
-  },
-  "keywords": [
-    "debug",
-    "logger",
-    "levels",
-    "colors",
-    "console",
-    "log",
-    "info",
-    "warn",
-    "error"
-  ],
-  "author": {
-    "name": "Dario Marcelino",
-    "email": "dario@appscot.com"
-  },
-  "license": "MIT",
   "dependencies": {
-    "debug": "^2.1.0"
+    "debug-logger": "^0.4.1"
   }
 }
